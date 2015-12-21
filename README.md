@@ -13,7 +13,7 @@ Der Teilnehmer lernt in diesem Modul die Unterschiedlichen Development Szenarien
 
 Wir schauen auf die Installation von Office Apps und die Unterschiedlichen Distributionswege.
 
-##Modul 2
+##[Modul 2](https://github.com/patbosc/officedevts2015/blob/master/O3652-2%20Office%20Word%20Add-ins/Lab.md)
 Entwickeln von Add-Ins für Microsoft Word 2013 / 2016
 
 ##Modul 3
