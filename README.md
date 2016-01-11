@@ -16,7 +16,7 @@ Wir schauen auf die Installation von Office Apps und die Unterschiedlichen Distr
 ##[Modul 2](https://github.com/patbosc/officedevts2015/blob/master/O3652-2%20Office%20Word%20Add-ins/Lab.md)
 Entwickeln von Add-Ins für Microsoft Word 2013 / 2016
 
-##Modul 3
+##[Modul 3](https://github.com/patbosc/officedevts2015/blob/master/O3651-7%20Setting%20up%20your%20Developer%20environment%20in%20Office%20365/Lab.md)
 Setup der Entwicklungsumgebung
 
 ##Modul 4
