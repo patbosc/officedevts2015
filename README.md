@@ -25,8 +25,9 @@ Weitere interessante Repositories:
 - [Windows Universal App - Onedrive API](https://github.com/patbosc/O365_Windows10_FilesAPI)
 - [Windows 8 App und O'365 API](https://github.com/patbosc/O365_Windows_Snippets)
 
-##Modul 5
+##[Modul 5](https://github.com/patbosc/officedevts2015/blob/master/O3656%20Sharepoint/README.md)
 Entwickeln von Apps for Sharepoint
+
 
 Mehr dazu finden Sie auf meinem Blog: [tail-f.net](www.tail-f.net)
 -----------------------
