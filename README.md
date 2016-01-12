@@ -22,8 +22,8 @@ Setup der Entwicklungsumgebung
 ##[Modul 4](https://github.com/patbosc/officedevts2015/blob/master/O3651-5%20Getting%20started%20with%20Office%20365%20APIs/Lab.md)
 Entwickeln mit der Office 365 API. In diesem Modul schauen wir uns eine Einfache ASP.net Seite an die auf die O'365 API zugreift. 
 Weitere interessante Repositories:
-[Windows Universal App - Onedrive API](https://github.com/patbosc/O365_Windows10_FilesAPI)
-[Windows 8 App und O'365 API](https://github.com/patbosc/O365_Windows_Snippets)
+- [Windows Universal App - Onedrive API](https://github.com/patbosc/O365_Windows10_FilesAPI)
+- [Windows 8 App und O'365 API](https://github.com/patbosc/O365_Windows_Snippets)
 
 ##Modul 5
 Entwickeln von Apps for Sharepoint
