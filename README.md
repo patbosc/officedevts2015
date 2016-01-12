@@ -20,7 +20,10 @@ Entwickeln von Add-Ins für Microsoft Word 2013 / 2016
 Setup der Entwicklungsumgebung
 
 ##Modul 4
-Entwickeln mit der Office 365 API sowie Unified API graph.microsoft.com
+Entwickeln mit der Office 365 API. In diesem Modul schauen wir uns eine Einfache ASP.net Seite an die auf die O'365 API zugreift. 
+Weitere interessante Repositories:
+Windows Universal App - Onedrive API
+Windows 8 App und O'365 API
 
 ##Modul 5
 Entwickeln von Apps for Sharepoint
